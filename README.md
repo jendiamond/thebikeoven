@@ -1,5 +1,5 @@
 # The Bike Oven
-THE BIKE OVEN IS A COMMUNITY RUN WORKSHOP SERVING NORTHEAST LOS ANGELES
+The Bike Oven is a community run workshop serving NorthEast Los Angeles
 
 Current site: https://www.thebikeoven.org/
 

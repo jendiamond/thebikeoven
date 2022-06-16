@@ -7,5 +7,5 @@ This site will be build in Nuxt 3
 
 ---
 
-+ [The bike Kitchen](https://bicyclekitchen.org/)
++ [The Bike Kitchen](https://bicyclekitchen.org/)
 + [The Bikerowave](https://bikerowave.org/)
